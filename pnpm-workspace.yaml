@@ -1,0 +1,5 @@
+allowBuilds:
+  '@tailwindcss/oxide': false
+
+overrides:
+  lightningcss: 1.30.1
